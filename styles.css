@@ -1,1 +1,12 @@
-/* Do not add any css, this is a bootstrap only assignment  */
+.carousel .item {
+      height: 400px;
+      text-align: center;
+      color: white;
+      font-size: 30px;
+      line-height: 400px;
+    }
+    .first-slide { background: #ff5733; }
+    .second-slide { background: #33c3ff; }
+    .third-slide { background: #28a745; }
+    .fourth-slide { background: #ffc107; }
+    .fifth-slide { background: #6f42c1; }
